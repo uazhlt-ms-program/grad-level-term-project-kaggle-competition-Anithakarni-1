@@ -77,7 +77,7 @@ the private competition page.
 
 Kaggle leaderboard result:
 
-- Public leaderboard score: `ADD YOUR SCORE HERE`
+- Public leaderboard score: `0.92696`
 
 ## Reflection
 
